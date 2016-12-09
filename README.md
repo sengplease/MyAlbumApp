@@ -1,1 +1,1 @@
-# MyAlbumApp
+# LANDING_PAGE
